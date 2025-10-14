@@ -1,0 +1,123 @@
+nav a.navbar-brand {
+    font-size: 1.5em;
+    color: #0275d8;
+}
+
+.fa-bars {
+    color: #0275d8;
+    padding: 0.5em;
+}
+
+.fa-bars:hover { 
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.fa-headset, .fa-calendar-days, .fa-circle-play { 
+    font-size: 20vh;
+}
+
+body { 
+    padding-top: 5%;
+}
+
+.copyright-footer { 
+    text-align: center;
+}
+
+.carousel-item img { 
+    object-fit: fit;
+    object-position: center;
+    height: 60vh;
+    width: 100%;
+}
+
+.carousel-control-prev:hover, .carousel-control-next:hover { 
+    background-color: rgba(255, 255, 255, 0.107);
+}
+
+.card-icon-list { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0.75rem;
+}
+ 
+.card-icon-list li { 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.card-icon-list li i { 
+    display: inline; 
+    padding: 0; 
+    margin-right: 0.125em;
+    color: grey;
+}
+
+.copyright-footer { 
+    margin-top: 1.125em;
+    margin-bottom: 0.25em;
+}
+
+.copyright-footer span { 
+    font-size: 0.85rem;
+}
+
+.courses-cards .card:hover { 
+    background-color: rgba(245, 245, 245);
+    box-shadow: 0 6px 10px rgba(0,0,0, 0.125);
+    transform: scale(1.05);
+}
+
+.social-media-card ul { 
+    list-style-type: none;
+    margin: 0; 
+    padding: 0; 
+}
+
+.social-media-card li { 
+    /* display: inline;  */
+    float: left;
+    font-size: 2rem;
+    width: 20%; 
+    text-align: center;
+}
+
+.our-story-img {
+    object-fit: cover;
+    object-position: center;
+    height: 75vh;
+    width: 100%;
+    border-radius: 1rem;
+    /* box-shadow: 0 6px 10px rgba(0,0,0, 0.125); */   
+}
+
+.our-story-page > h3 {
+    margin-top: 1%;
+    margin-bottom: 1em;
+}
+
+.our-story-page .row { 
+    margin-top: 1.125em;
+}
+
+.courses-page-jumbotron { 
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.courses-row-1 { 
+    margin-bottom: 1.25em;
+}
+
+.courses-row-2, .courses-row-3 { 
+    margin-top: 3.25em; 
+    margin-bottom: 1.25em;
+}
+
+.form-elements-container { 
+    margin-top: 2em;
+}
+
+
